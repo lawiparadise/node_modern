@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf3a8f9-ae6d-407b-9efe-5dbcede7215c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch6/test.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5/rint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch6/6.4.1/OtherPage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch6/6.4.1/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch6/6.4.1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch6/HTMLPage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch6/ch6-12.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch6/ch6-5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch6/ch6-9.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch6/ch6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch6/http.file.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch6/test.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch5.js" afterPath="$PROJECT_DIR$/ch5/ch5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch6/6-27.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch6/6.4.4/HTMLPage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch6/6.4.4/request.post.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="modern.iws" />
@@ -39,36 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ch6.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch6/ch6.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ch6-5.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch6/ch6-5.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="http.file.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch6/http.file.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="HTMLPage.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch6/HTMLPage.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -101,11 +60,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch6/6.4.1/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
+            <state relative-caret-position="496">
               <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HTMLPage.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch6/6.4.4/HTMLPage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="6-27.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch6/6-27.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="request.post.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch6/6.4.4/request.post.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -176,6 +165,9 @@
         <option value="$PROJECT_DIR$/ch6/6.4.1/OtherPage.html" />
         <option value="$PROJECT_DIR$/ch6/6.4.1/index.html" />
         <option value="$PROJECT_DIR$/ch6/6.4.1/app.js" />
+        <option value="$PROJECT_DIR$/ch6/6.4.4/request.post.js" />
+        <option value="$PROJECT_DIR$/ch6/6.4.4/HTMLPage.html" />
+        <option value="$PROJECT_DIR$/ch6/6-27.js" />
       </list>
     </option>
   </component>
@@ -264,6 +256,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="6.4.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="6.4.1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -308,13 +318,7 @@
       <recent name="C:\wintart\develop\webstrom_workspace\modern\ch3" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.app.js">
-    <configuration default="false" name="ch6-5.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ch6-5.js" working-dir="$PROJECT_DIR$/ch6">
-      <method />
-    </configuration>
-    <configuration default="false" name="http.file.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="http.file.js" working-dir="$PROJECT_DIR$/ch6">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.6-27.js">
     <configuration default="false" name="ch6-9.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ch6-9.js" working-dir="$PROJECT_DIR$/ch6">
       <method />
     </configuration>
@@ -322,6 +326,12 @@
       <method />
     </configuration>
     <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/ch6/6.4.1">
+      <method />
+    </configuration>
+    <configuration default="false" name="request.post.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="request.post.js" working-dir="$PROJECT_DIR$/ch6/6.4.4">
+      <method />
+    </configuration>
+    <configuration default="false" name="6-27.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="6-27.js" working-dir="$PROJECT_DIR$/ch6">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -378,19 +388,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.ch6-5.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.http.file.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.ch6-9.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.ch6-12.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.app.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.ch6-9.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.ch6-12.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.app.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.request.post.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.6-27.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.ch6-12.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.ch6-9.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.http.file.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.ch6-5.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.6-27.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.request.post.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.app.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.ch6-12.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.ch6-9.js" />
       </list>
     </recent_temporary>
   </component>
@@ -417,7 +427,7 @@
       <workItem from="1479352890675" duration="638000" />
       <workItem from="1479670901188" duration="2103000" />
       <workItem from="1479673866758" duration="2080000" />
-      <workItem from="1479803917321" duration="24712000" />
+      <workItem from="1479803917321" duration="30163000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1476496764795</created>
@@ -437,7 +447,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41666000" />
+    <option name="totallyTimeSpent" value="47117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1866" y="-2" width="1874" height="1096" extended-state="6" />
@@ -482,30 +492,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch4/textfile.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="26" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch3/module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -904,8 +890,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch6/6.4.1/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
+        <state relative-caret-position="496">
           <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6/6.4.4/request.post.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6/6.4.4/HTMLPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6/6-27.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
           <folding />
         </state>
       </provider>
