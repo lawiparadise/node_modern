@@ -2,33 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf3a8f9-ae6d-407b-9efe-5dbcede7215c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch7/7-24.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch7/7.2/7-18.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch7/7.2/jade.basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch7/7.2/jadePage.jade" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch3/ch3.js" afterPath="$PROJECT_DIR$/ch3_object/ch3.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch3/module.js" afterPath="$PROJECT_DIR$/ch3_object/module.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch4/TestFileOtherWrite.txt" afterPath="$PROJECT_DIR$/ch4_module/TestFileOtherWrite.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch4/TestFileOtherWriteSync.txt" afterPath="$PROJECT_DIR$/ch4_module/TestFileOtherWriteSync.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch4/ch4.js" afterPath="$PROJECT_DIR$/ch4_module/ch4.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch4/textfile.txt" afterPath="$PROJECT_DIR$/ch4_module/textfile.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch5/app.js" afterPath="$PROJECT_DIR$/ch5_event/app.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch5/ch5.js" afterPath="$PROJECT_DIR$/ch5_event/ch5.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch5/rint.js" afterPath="$PROJECT_DIR$/ch5_event/rint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch6/6-27.js" afterPath="$PROJECT_DIR$/ch6_http/6-27.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch6/6.4.1/OtherPage.html" afterPath="$PROJECT_DIR$/ch6_http/6.4.1/OtherPage.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch6/6.4.1/app.js" afterPath="$PROJECT_DIR$/ch6_http/6.4.1/app.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch6/6.4.1/index.html" afterPath="$PROJECT_DIR$/ch6_http/6.4.1/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch6/6.4.4/HTMLPage.html" afterPath="$PROJECT_DIR$/ch6_http/6.4.4/HTMLPage.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch6/6.4.4/request.post.js" afterPath="$PROJECT_DIR$/ch6_http/6.4.4/request.post.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch6/HTMLPage.html" afterPath="$PROJECT_DIR$/ch6_http/HTMLPage.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch6/ch6-12.js" afterPath="$PROJECT_DIR$/ch6_http/ch6-12.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch6/ch6-5.js" afterPath="$PROJECT_DIR$/ch6_http/ch6-5.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch6/ch6-9.js" afterPath="$PROJECT_DIR$/ch6_http/ch6-9.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch6/ch6.js" afterPath="$PROJECT_DIR$/ch6_http/ch6.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch6/http.file.js" afterPath="$PROJECT_DIR$/ch6_http/http.file.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch6/test.jpg" afterPath="$PROJECT_DIR$/ch6_http/test.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch6/test.mp3" afterPath="$PROJECT_DIR$/ch6_http/test.mp3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -56,8 +29,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+            <state relative-caret-position="44">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -185,42 +158,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ch8_express" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ch7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ch7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -369,7 +306,7 @@
       <workItem from="1479670901188" duration="2103000" />
       <workItem from="1479673866758" duration="2080000" />
       <workItem from="1479803917321" duration="30765000" />
-      <workItem from="1480009049344" duration="11107000" />
+      <workItem from="1480009049344" duration="11505000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1476496764795</created>
@@ -389,7 +326,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58826000" />
+    <option name="totallyTimeSpent" value="59224000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1866" y="-2" width="1874" height="1096" extended-state="6" />
@@ -815,8 +752,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        <state relative-caret-position="44">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
