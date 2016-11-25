@@ -13,3 +13,5 @@ http.createServer(function (req, res) {
 }).listen(52273, function () {
     console.log('Server is running');
 });
+
+router.route('/')
