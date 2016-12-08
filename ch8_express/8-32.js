@@ -29,30 +29,42 @@ app.get('/user', function (req,res) {
 app.get('/user/:id', function (req,res) {
     res.send(DummyDB.get(res.params.id));
     // res.send('<h1> hi</h1>');
-});e
+});
 app.post('/user', function (req,res) {
+    console.log(req.body);
     var name = req.body.name;
     var region = req.body.region;
-    /*if(name && region){
+
+    console.log(name, region);
+
+    if(name && region){
         res.send(DummyDB.insert({
             name:name,
             region:region
         }));
     } else{
-        throw new Error('error');
-    }*/
+        throw new Error('error!!');
+    }
 });
 app.put('/user/:id', function (req,res) {
+    var id = req.params.id;
+    var name = req.body.name;
+    var region = req.body.region;
 
+    var item = DummyDB.get(id);
+    item.name = name || item.name;
+    item.region = region || item.region;
+
+    res.send(item);
 });
 app.del('/user/:id', function (req,res) {
-
+    res.send(DummyDB.remove(req.params.id));
 });
 
 http.createServer(app).listen(52273, function () {
     console.log('Server is running');
 });
-/*
+
 var DummyDB = (function () {
     var DummyDB = {};
     var storage = [];
@@ -87,5 +99,4 @@ var DummyDB = (function () {
 
     return DummyDB;
 
-});
-*/
+})();
