@@ -19,9 +19,7 @@ app.use(bodyParser());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
 
-http.createServer(app).listen(52273, function () {
-    console.log('server running at 52273');
-});
+
 
 app.get('/', function (req, res) {
     fs.readFile('list.html', 'utf-8', function (error, data) {
@@ -67,4 +65,8 @@ app.post('/edit/:id', function (req, res) {
     client.query('UPDATE products SET name=?, modelnumber=?, series=? WHERE id=?', [body.name, body.modelnumber, body.series, req.params.id], function () {
         res.redirect('/');
     });
+});
+
+http.createServer(app).listen(52273, function () {
+    console.log('server running at 52273');
 });
